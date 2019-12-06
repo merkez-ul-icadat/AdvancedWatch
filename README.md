@@ -1,5 +1,6 @@
 # AdvancedWatch
 [![travis-ci build status](https://travis-ci.org/merkez-ul-icadat/AdvancedWatch.svg?branch=master)](https://travis-ci.org/merkez-ul-icadat/AdvancedWatch)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=merkez-ul-icadat_AdvancedWatch&metric=alert_status)](https://sonarcloud.io/dashboard?id=merkez-ul-icadat_AdvancedWatch)
 
 From scratch in Eclipse
 
