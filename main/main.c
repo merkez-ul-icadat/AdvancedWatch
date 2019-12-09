@@ -2,7 +2,9 @@
  * Bismillah ar-Rahmaan ar-Raheem
  *
  * Merkez-ul-icadat
+ * AdvancedWatch
  *
+ * TTGO by Lilygo T-Watch
  */
 
 #include <stdio.h>

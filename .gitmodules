@@ -1,0 +1,3 @@
+[submodule "main/lib/AXP202X_Library"]
+	path = main/lib/AXP202X_Library
+	url = https://github.com/lewisxhe/AXP202X_Library.git
