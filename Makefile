@@ -3,7 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := AdvancedWatch 
+PROJECT_NAME := AdvancedWatch
 
 include $(IDF_PATH)/make/project.mk
-
